@@ -3,3 +3,4 @@ GNSS Kinematic Analyzer processes kinematic GNSS trajectories acquired with dual
 
 Developed by the Department of Civil, Building and Environmental Engineering (DICEA) — Sapienza University of Rome.
 
+Authors:	Silvia Di Giannantonio, Carolina Ghini, Augusto Mazzoni
